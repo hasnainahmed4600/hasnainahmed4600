@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasnainahmed4600
 - 👀 I’m interested in Full stack Development.
-- 🌱 I’m currently specialized in several headless CMS (Strapi, Contentful) .
+- 🌱 I’m currently specialized in ROR, several headless CMS (Strapi, Contentful) .
 - 💞️ I’m looking to collaborate on StartUp, Company.
 - 📫 How to reach me hasnainahmed4600@gmail.com
 
